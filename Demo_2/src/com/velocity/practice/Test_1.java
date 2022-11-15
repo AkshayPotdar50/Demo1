@@ -1,7 +1,8 @@
 package com.velocity.practice;
 
 import java.util.HashMap;
-public class Test_1  {
+
+public class Test_1 {
 
 	public static void main(String[] args) {
 		HashMap<Integer,String> hashmap = new HashMap<Integer,String>();
@@ -15,3 +16,4 @@ public class Test_1  {
 	}
 
 }
+
