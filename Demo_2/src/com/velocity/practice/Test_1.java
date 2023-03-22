@@ -1,4 +1,4 @@
-package com.velocity.practice;
+package com.vel.practice;
 
 import java.util.HashMap;
 
